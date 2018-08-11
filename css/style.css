@@ -1,0 +1,19 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: black;
+}
+
+iframe {
+  width: 100vw;
+  height: 100vh;
+  border: none;
+}
